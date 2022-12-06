@@ -1,3 +1,5 @@
+// Jeff Taylor: this is a comment
+
 define([
 	"knockout","underscore","module","song",
 	"lib/knockout/pauseable"
